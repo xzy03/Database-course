@@ -1,0 +1,1 @@
+基于javaweb和js，数据库用的是国产华为的OpenGauss的高校成绩管理系统
